@@ -1,3 +1,1 @@
-👋 Hi! I'm [Mark], a developer specializing in **C#**, **JavaScript**, and **Python**. I build efficient, user-centered applications from backend APIs to dynamic web experiences—always excited to collaborate on innovative projects!
-
-
+Hi! I build efficient applications, develop backend APIs, and create dynamic web experiences. Always excited to work on innovative projects!
